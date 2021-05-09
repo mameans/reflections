@@ -1,0 +1,16 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    Sets up the git system files necessary to start tracking history
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    Allows the differentiation of temporary files versus more permanent files.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    By just adding files to the stagging area that contain the logical change.
+
+
+
+
+
