@@ -10,7 +10,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 
     By just adding files to the stagging area that contain the logical change.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
+    When creating new/experimental versions so as not to impact the released/official version.
 
+How do the diagrams help you visualize the branch structure?
 
+    By showing where changes will land either within a reachable sequence or detatched from other commits
 
