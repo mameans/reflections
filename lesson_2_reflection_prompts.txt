@@ -18,3 +18,6 @@ How do the diagrams help you visualize the branch structure?
 
     By showing where changes will land either within a reachable sequence or detatched from other commits
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+    The branch commits are interleaved by date & time into one branch.
