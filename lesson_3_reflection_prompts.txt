@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
     Git creates hidden directory and files to support versioning
+    
+When would you want to use a remote repository rather than keeping all your work local?
+
+    As a backup or when colaborating
